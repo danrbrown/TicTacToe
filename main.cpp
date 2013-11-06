@@ -1,4 +1,6 @@
 #include <iostream>
+#include <SFML/Graphics>
+
 using namespace std;
 int main()
 {
